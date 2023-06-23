@@ -1,6 +1,6 @@
-import LogoutModal from "./components/LogoutModal"
-import Navbar from "./components/Navbar"
-import Sidebar from "./components/Sidebar"
+import LogoutModal from "./layouts/LogoutModal"
+import Navbar from "./layouts/Navbar"
+import Sidebar from "./layouts/Sidebar"
 import Router from "./router"
 
 function App() {
